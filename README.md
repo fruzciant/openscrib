@@ -1,5 +1,6 @@
 # Openscrib - File Sharing for students
 This is a Scribd open and decentralized alternative (hope so).
+
 A decentralized platform for sharing and discovering documents, built on IPFS.
 
 ## Brief Overview
