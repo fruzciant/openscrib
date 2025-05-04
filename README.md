@@ -22,8 +22,8 @@ Current document-sharing platforms often rely on centralized infrastructure, mak
 This project is licensed under the MIT License - see the `LICENSE` file for details. (You'll need to add a LICENSE file).
 
 ## Contributors
-[@fruzciant](https://github.com/fruzciant)
-[@zhezter](https://github.com/zhezter)
+- Andres Mauricio [@fruzciant](https://github.com/fruzciant)
+- Juan Jose [@zhezter](https://github.com/zhezter)
 
 ## Contact
 Feel free to reach out if you'd like to connect or collaborate on a project:
